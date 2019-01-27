@@ -9742,6 +9742,27 @@ MonoBehaviour:
     Response:
       Answer: Yes, I would like to know more about your world. Please proceed.
       ChoosePrompt: 1
+  - Key: WhyYouLeaveHere
+    Response:
+      Answer: 'There are many places in our federation that require a diplomatic visit.
+        I cannot converse with your species indefinitely. '
+      ChoosePrompt: 1
+  - Key: WhyYouLeaveHome
+    Response:
+      Answer: Savrok is now very sparkly populated. I left seeking something more
+        cosmopolitan and wound up touring the cosmos in an official capacity.
+      ChoosePrompt: 1
+  - Key: WhyYouComeHere
+    Response:
+      Answer: To facilitate a deeper understanding and a closer relationship with
+        your species, we wanted to converse with many average Earthlings. So far this
+        endeavour is proving most enlightening.
+      ChoosePrompt: 1
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 1
   InitialButtons:
   - {fileID: 114462728457420672}
   - {fileID: 114170605009749766}
