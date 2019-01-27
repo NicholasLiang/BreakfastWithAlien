@@ -146,6 +146,7 @@ public class DialogChooser : MonoBehaviour {
 
     IEnumerator ClearVisuals()
     {
+        HideButtons();
         yield return new WaitForSeconds(60);
         ResetGame();
     }
