@@ -4172,7 +4172,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Earth
 --- !u!114 &114057192808101524
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5114,7 +5114,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Talk
 --- !u!114 &114117070487010576
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -6254,7 +6254,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: To
 --- !u!114 &114206150096238790
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -9008,7 +9008,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: From
+  m_Text: Earth
 --- !u!114 &114430676603371414
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -9778,7 +9778,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: From
+  m_Text: Canada
 --- !u!114 &114452252192887112
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -10053,7 +10053,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You
+  m_Text: Ate
 --- !u!114 &114466025880822198
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -10187,7 +10187,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Alien
 --- !u!114 &114478170572588122
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -10840,7 +10840,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: From
+  m_Text: Vancouver
 --- !u!114 &114557882367479552
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -12059,7 +12059,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: You
 --- !u!114 &114654331273531102
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -12921,7 +12921,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Me
 --- !u!114 &114731751247926758
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -13278,7 +13278,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: People
 --- !u!114 &114756847439558972
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -14291,7 +14291,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Where
+  m_Text: We
 --- !u!114 &114842821386531286
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -14615,7 +14615,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: About
 --- !u!114 &114861788494289360
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -15112,7 +15112,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Home
 --- !u!114 &114901544942281716
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -16225,7 +16225,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Want
+  m_Text: Anyone
 --- !u!114 &114980073007115778
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -267,6 +267,81 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 114465376396996458, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Ate
+      objectReference: {fileID: 0}
+    - target: {fileID: 114838970471781414, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: We
+      objectReference: {fileID: 0}
+    - target: {fileID: 114117064996612574, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Talk
+      objectReference: {fileID: 0}
+    - target: {fileID: 114197683608085112, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: To
+      objectReference: {fileID: 0}
+    - target: {fileID: 114979989801174286, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Anyone
+      objectReference: {fileID: 0}
+    - target: {fileID: 114475142085275362, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Alien
+      objectReference: {fileID: 0}
+    - target: {fileID: 114754542623229386, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: People
+      objectReference: {fileID: 0}
+    - target: {fileID: 114861041648755218, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: About
+      objectReference: {fileID: 0}
+    - target: {fileID: 114057096067030230, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Earth
+      objectReference: {fileID: 0}
+    - target: {fileID: 114901467944114890, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Home
+      objectReference: {fileID: 0}
+    - target: {fileID: 114653642653570620, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: You
+      objectReference: {fileID: 0}
+    - target: {fileID: 114731341230169230, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Me
+      objectReference: {fileID: 0}
+    - target: {fileID: 114426855826662492, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Earth
+      objectReference: {fileID: 0}
+    - target: {fileID: 114449351103790960, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Canada
+      objectReference: {fileID: 0}
+    - target: {fileID: 114554734124788492, guid: 1d722345bfae1154b8fe16755cfdfa7e,
+        type: 2}
+      propertyPath: m_Text
+      value: Vancouver
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 1d722345bfae1154b8fe16755cfdfa7e, type: 2}
   m_IsPrefabParent: 0
