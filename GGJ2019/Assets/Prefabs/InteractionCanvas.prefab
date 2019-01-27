@@ -3619,7 +3619,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Where
-  EndSentence: 1
+  EndSentence: 0
   NextWords:
   - {fileID: 114363846180063180}
   - {fileID: 114161631647031146}
@@ -4526,8 +4526,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: You
-  EndSentence: 0
+  value: Home
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114073867686759554
 MonoBehaviour:
@@ -5938,7 +5938,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: 
+  value: I
   EndSentence: 0
   NextWords:
   - {fileID: 114246213767420452}
@@ -6039,7 +6039,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: Where
+  value: We
   EndSentence: 0
   NextWords:
   - {fileID: 114818224985923542}
@@ -7609,7 +7609,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Going
-  EndSentence: 0
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114327764403312544
 MonoBehaviour:
@@ -8727,7 +8727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Me
-  EndSentence: 0
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114402147718724802
 MonoBehaviour:
@@ -8740,8 +8740,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: You
-  EndSentence: 0
+  value: Here
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114403343081348338
 MonoBehaviour:
@@ -8806,7 +8806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: Where
+  value: Family
   EndSentence: 1
   NextWords: []
 --- !u!114 &114406590017451418
@@ -9221,7 +9221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Where
-  EndSentence: 1
+  EndSentence: 0
   NextWords:
   - {fileID: 114643523691407062}
   - {fileID: 114850811562670634}
@@ -9898,7 +9898,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Ship
-  EndSentence: 0
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114462728457420672
 MonoBehaviour:
@@ -10914,7 +10914,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: Where
+  value: Friends
   EndSentence: 1
   NextWords: []
 --- !u!114 &114562312320508958
@@ -11074,7 +11074,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   value: Bed
-  EndSentence: 0
+  EndSentence: 1
   NextWords: []
 --- !u!114 &114574813103211090
 MonoBehaviour:
@@ -14398,7 +14398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: Where
+  value: From
   EndSentence: 1
   NextWords: []
 --- !u!114 &114850811562670634
@@ -15469,7 +15469,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: Where
+  value: Going
   EndSentence: 1
   NextWords: []
 --- !u!114 &114927891409934270
