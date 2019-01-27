@@ -9604,150 +9604,124 @@ MonoBehaviour:
     Response:
       Answer: Well, I hope you have not been disappointed by or interactions.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: NONE0
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: This response should not be reachable
+      ChoosePrompt: 1
+  - Key: EarthIsFun
+    Response:
+      Answer: That is good to hear. Perhaps it might be worth it for me to spend some
+        time there.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthIsBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: 'I am sorry to hear that, but I may offer a more optimistic perspective,
+        the universe is filled with interesting places and phenomena for you to explore. '
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthIsHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope in time our species\u2019 collaboration can improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthIsGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I am glad you are satisfied with your world. Unsatisfied species can
+        be\u2026 problematic."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthIsDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope in time our species\u2019 collaboration can improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWillBeFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: First contact does tend to make planets more exciting for their inhabitants.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWillBeBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I hope you do not feel that the your new perspective on the universe
+        has diminished your world in your mind. Every world has something unique to
+        offer.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWillBeHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I hope the conveniences of this station have not negatively altered
+        your expectations of your own world.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWillBeGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope our species\u2019 collaboration will contribute to that vision."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWillBeDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: 'We have dealt with dangerous species before. I doubt your world will
+        constitute threat we cannot manage. '
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWasFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I assure you, earth should continue to be a enjoyable despite and perhaps
+        as a direct result of our continued collaboration.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWasBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: It will not remain that way. First contact tends to make planets more
+        much exciting for their inhabitants.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWasHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope our species\u2019 collaboration has begun to improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWasGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I am sorry to hear of your world\u2019s decline. I hope you do not
+        attribute this to our arrival."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: EarthWasDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope our species\u2019 collaboration has begun to improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IFromEarth
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: That is unsurprising, we only selected current Earthlings for this program.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IFromCanada
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I have heard of this constituency. That leaf branding is inescapably
+        iconic.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IFromVancouver
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: If this is the city I have heard of, it is a wonder you are able to
+        finance such living arrangements.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkToAnyone
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Well, I am someone and I am happy to converse with you. I hope I have
+        eased your loneliness.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkToAlien
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: It is a rare opportunity on a world such as yours. I am glad you were
+        able to experience this.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkToPeople
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Well, I believe you can consider me a person and I am quite happy to
+        converse with you. I hope I have eased your loneliness.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkAboutEarth
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Very well. Please tell me about your world.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkAboutMe
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Very well, perhaps you could tell me more about where you come from.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkAboutYou
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Very well, please ask me any question you like.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: IWantTalkAboutHome
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
-      ChoosePrompt: 0
-  - Key: WhyYouComeHome
-    Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
-      ChoosePrompt: 0
-  - Key: WhyYouComeHome
-    Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
-      ChoosePrompt: 0
-  - Key: WhyYouComeHome
-    Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
-      ChoosePrompt: 0
-  - Key: WhyYouComeHome
-    Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Yes, I would like to know more about your world. Please proceed.
       ChoosePrompt: 0
   InitialButtons:
   - {fileID: 114462728457420672}
