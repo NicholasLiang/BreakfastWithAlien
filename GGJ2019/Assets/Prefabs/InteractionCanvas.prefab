@@ -6334,6 +6334,8 @@ MonoBehaviour:
   - {fileID: 114046426698232284}
   - {fileID: 114436556917522320}
   - {fileID: 114376275039584462}
+  - {fileID: 114740097671594716}
+  - {fileID: 114075108354991876}
 --- !u!114 &114210789270040494
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -9453,8 +9455,289 @@ MonoBehaviour:
       Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
         and there is little to do there anyway.
       ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
+  - Key: WhyYouComeHome
+    Response:
+      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
+        and there is little to do there anyway.
+      ChoosePrompt: 0
   InitialButtons:
   - {fileID: 114462728457420672}
+  - {fileID: 114170605009749766}
   AllButtons: []
 --- !u!114 &114449351103790960
 MonoBehaviour:
