@@ -30,6 +30,7 @@ public class WordChoice : MonoBehaviour {
     //}
 
     public void RevealNext(){
+        dialog.HideButtons();
         foreach(Button b in NextWords){
             b.gameObject.SetActive(true);
         }

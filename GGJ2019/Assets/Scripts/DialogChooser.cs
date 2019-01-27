@@ -52,14 +52,23 @@ public class DialogChooser : MonoBehaviour {
         foreach(string str in ActiveKey){
             key += str;
         }
-        Response response = Responses[key];
-        string dialog = response.Answer;
-        if(response.ChoosePrompt){
-            dialog += " " + GetPrompt();
+        Response response;
+        Responses.TryGetValue(key, out response);
+        if (response == null)
+        {
+            Debug.Log(key + " not found.");
+            Output.text = (key + " not found.");
         }
-        ActiveKey.Clear();
-        Output.text = dialog;
-
+        else
+        {
+            string dialog = response.Answer;
+            if (response.ChoosePrompt)
+            {
+                dialog += " " + GetPrompt();
+            }
+            ActiveKey.Clear();
+            Output.text = dialog;
+        }
         ResetButtons();
     }
 
@@ -76,13 +85,17 @@ public class DialogChooser : MonoBehaviour {
     }
 
     void ResetButtons(){
-        foreach (Button b in AllButtons)
-        {
-            b.gameObject.SetActive(false);
-        }
+        HideButtons();
         foreach (Button b in InitialButtons)
         {
             b.gameObject.SetActive(true);
+        }
+    }
+
+    public void HideButtons(){
+        foreach (Button b in AllButtons)
+        {
+            b.gameObject.SetActive(false);
         }
     }
 }
