@@ -9434,161 +9434,175 @@ MonoBehaviour:
       Answer: In order to better understand your species, we held a lottery to select
         average humans at random.
       ChoosePrompt: 0
-  - Key: WhyYouLeaveHere
+  - Key: MyHomeMeansBed
     Response:
-      Answer: 'There are many places in our federation that require a diplomatic visit.
-        I cannot converse with your species indefinitely. '
+      Answer: 'I see, wherever you rest your head is home to you. A practical definition
+        indeed. '
       ChoosePrompt: 0
-  - Key: WhyYouLeaveHome
+  - Key: MyHomeMeansFamily
     Response:
-      Answer: Savrok is now very sparkly populated. I left seeking something more
-        cosmopolitan and wound up touring the cosmos in an official capacity.
+      Answer: I suppose the fixed point of ones family provides a kind of spiritual
+        home rather than a physical one.
       ChoosePrompt: 0
-  - Key: WhyYouComeHere
+  - Key: MyHomeMeansFrom
     Response:
-      Answer: To facilitate a deeper understanding and a closer relationship with
-        your species, we wanted to converse with many average Earthlings. So far this
-        endeavour is proving most enlightening.
+      Answer: So your home is no more than your starting place. I am inclined to agree.
+        Once one begins travelling the cosmos indefinitely, the notion of a fixed
+        home becomes meaningless.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeMeansNothing
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I see. It is regrettable that travel has turned you toward nihilism,
+        but I cannot say the perspective is uncommon among those I have met in my
+        travels.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeMeansFriends
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: So wherever one finds companionship. This seems a very adaptable point
+        of view. It will benefit you as you begin to travel the galaxy.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeMeansHere
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: If you mean that your home is wherever you are, I more or less agree.
+        However if you are referring to this station, I regret to inform you that
+        we cannot allow you to stay here.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodIsHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I understand that Savrone food may be difficult for an Earthling moth
+        to tackle, but I hope you will try regardless.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodIsGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I\u2019m glad you are enjoying it!"
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodIsBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: Well, our chefs purposefully chose very simple recipes. I apologize
+        if this does not meet your sophisticated expectations.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodIsFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I\u2019m glad you are enjoying it!"
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodIsDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I assure you, all of the food is safe. We have been very thorough in
+        vetting the diet choices for this meeting.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWasHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope today\u2019s meal is proving less of a problem than your normal
+        fare."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWasGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope today\u2019s meal is matching that expectation. "
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWasBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope today\u2019s meal provides more variety."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWasFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I hope todays meal is proving to be just as interesting.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWasDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: We have vetted the food for this occasion. It should be safer than your
+        prior staples.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWillBeHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope the memory of today\u2019s meal will provide some respite for
+        you going forward."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWillBeGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope today\u2019s meal has not been a disappointment."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWillBeBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I hope todays meal has not spoiled your palette.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWillBeFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope today\u2019s meal has not been a disappointment."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyFoodWillBeDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope the today\u2019s meal has provided some temporary respite for
+        you."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeIsGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I am glad you are satisfied with your world. Unsatisfied species can
+        be\u2026 problematic."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeIsBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: 'I am sorry to hear that, but I may offer a more optimistic perspective,
+        the universe is filled with interesting places and phenomena for you to explore. '
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeIsHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope in time our species\u2019 collaboration can improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeIsDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope in time our species\u2019 collaboration can improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeIsFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: 'That is good to hear. Perhaps it might be worth it for me to spend
+        some time there. '
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeWasGreat
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I am sorry to hear of your world\u2019s decline. I hope you do not
+        attribute this to our arrival."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeWasBoring
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: In my experience, first contact changes that for most worlds.
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeWasHard
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope our species\u2019 collaboration has begun to improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeWasDangerous
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: "I hope our species\u2019 collaboration has begun to improve that."
       ChoosePrompt: 0
-  - Key: WhyYouComeHome
+  - Key: MyHomeWasFun
     Response:
-      Answer: I am afraid I am unlikely to go home. My work keeps me far from Savrok
-        and there is little to do there anyway.
+      Answer: I hope you do not feel that the your new perspective on the universe
+        has diminished your world in your mind. Every world has something unique to
+        offer.
+      ChoosePrompt: 0
+  - Key: MyHomeWillBeGreat
+    Response:
+      Answer: "I hope our species\u2019 collaboration will contribute to that vision."
+      ChoosePrompt: 0
+  - Key: MyHomeWillBeBoring
+    Response:
+      Answer: I hope you do not feel that the your new perspective on the universe
+        has diminished your world in your mind. Every world has something unique to
+        offer.
+      ChoosePrompt: 0
+  - Key: MyHomeWillBeHard
+    Response:
+      Answer: The next steps into the galactic community are not easy for any planet,
+        but I hope we can help to ease you through this transition.
+      ChoosePrompt: 0
+  - Key: MyHomeWillBeDangerous
+    Response:
+      Answer: I hope our meeting will not have any repercussions for you. That was
+        not our intention.
+      ChoosePrompt: 0
+  - Key: MyHomeWillBeFun
+    Response:
+      Answer: Well, I hope you have not been disappointed by or interactions.
       ChoosePrompt: 0
   - Key: WhyYouComeHome
     Response:
