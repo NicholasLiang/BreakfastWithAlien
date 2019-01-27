@@ -9254,366 +9254,366 @@ MonoBehaviour:
   - Key: WhoYouAre
     Response:
       Answer: My name Klanthark. I am a diplomat from the planet Savrok.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoYouLeader
     Response:
       Answer: I am here on behalf of Meelorph, Grand Klogg of the Savrone Colonial
         Federation.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoYouFriends
     Response:
       Answer: "You haven\u2019t met any of them, the people with me now are all here
         in a professional capacity. They are my aides and the crewman on my ship."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoMadeStation
     Response:
       Answer: This station was constructed by your people with mentorship in interstellar
         construction.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoMadeShip
     Response:
       Answer: My vessel was built many years ago at an orbital shipyard over Pelicar.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoMadeBreakfast
     Response:
       Answer: This meal was prepared by two chefs. The Earth food was prepared by
         a a Savrone chef, and the Savrone food by an Earthling chef.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoMadeYou
     Response:
       Answer: "My parents literally. If you\u2019re looking for a figurative creator,
         I don\u2019t really know. My parents were devout Marophlaxians, but to me
         it just seemed like a lot of arbitrary rules with no overriding point. "
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhoMadeGame
     Response:
-      Answer: This game was created in Vancouver at Global Game Gam 2019 by Nick Lang
+      Answer: This game was created in Vancouver at Global Game Gam 2019 by Nick Liang
         and Michael Pattie. Nick animated my body and assembled the station you see
-        around me while Michael programmed your translation device and wrote the words
-        coming out of my mouth.
+        around us while Michael programmed your translator and wrote the words coming
+        out of my mouth. Thank you for playing!
       ChoosePrompt: 0
   - Key: WhatYouName
     Response:
       Answer: Klanthark.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouJob
     Response:
       Answer: I am a diplomat from the planet Savrok.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouSpecies
     Response:
       Answer: My people are the Savrons. We evolved on a planet many light years away
         from here.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouHomeIs
     Response:
       Answer: "I was born on the planet Savrok, though I don\u2019t depend much of
         my time there."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouHomeMean
     Response:
       Answer: "You know, it\u2019s amazing how many people are talking about that
         today. I have come to think of my home planet as more of a starting point
         than a current home. I spend so much time between planets that I consider
         myself homeless. How about your home?"
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouHomeLike
     Response:
       Answer: Savrok has been a sparsely populated world since most of our people
         emigrated to the off world colonies. Many of our cities have been reclaimed
         by nature.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: HowYouDoing
     Response:
       Answer: "I am doing very well. It\u2019s nice to stretch my legs on a station
         this size and have a real meal for a change. "
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: HowYouTravel
     Response:
       Answer: I arrived on a deep space hyper craft which is now in orbit of the planet
         below.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: HowILook
     Response:
       Answer: You look like an Earthling. Sadly, I am not well versed enough in your
         Earthling aesthetics to say more than that.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: HowIDoing
     Response:
       Answer: You are providing an enjoyable and informative conversation. If you
         are representative of your species, I think our people will continue to get
         along very well.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouFavouriteFood
     Response:
       Answer: 'Some consider me a traditionalist for preferring blue type c protein
         cubes, but my preferences simply are what they are. I do admit a certain fondness
         of your Earth bacon. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouFavouriteSport
     Response:
       Answer: "I am intrigued by Earth\u2019s primitive projectile launching games,
         particularly the one called \u201CDarts\u201D. However, with previous interview
         subjects, this statement of mine prompted a long discussion of wether this
         activity counts as a sport. "
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouFavouritePlace
     Response:
       Answer: Ganthor remains a traditional retreat for me between assignments. It
         always brings me a sense of relaxation.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhatYouFavouriteMusic
     Response:
       Answer: "My people\u2019s auditory entertainment is of a complexity that far
         outstrips being compared with Earth music, but I would say the closest approximation
         of my tastes would be the Earth band known as Nickelback. This Mr. Krowgar
         is a credit to your species."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhenYouArrive
     Response:
       Answer: "My vessel arrived about a week ago. I took a day to rest, and I\u2019ve
         been conducting these interviews ever since."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhenYouLeave
     Response:
       Answer: I will be staying for the next couple of your Earth months. I hope to
         dine and speak with hundreds on humans in that time.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhenYouAte
     Response:
       Answer: "I haven\u2019t eaten since last night, but I had a very large meal.
         I try not to eat too much during these interviews. I find it distracts me."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereShipAt
     Response:
       Answer: My ship is in orbit of this planet just like this station.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereShipFrom
     Response:
       Answer: My vessel was built many years ago at an orbital shipyard over Pelicar.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereShipGoing
     Response:
       Answer: Following this assignment, I will be returning to Ganthor to await new
         orders.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereWeAt
     Response:
       Answer: We are onboard JESSI, the Joint Earth-Sovran Space Installation. We
         constructed it to be a common port of call between our two empires.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereWeGoing
     Response:
       Answer: Following this interview, you will be provided transport to your home.
         I will remain at this installation for additional numbers.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereYouFrom
     Response:
       Answer: I travelled here by hyper craft  from the planet Savrok.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereYouGoing
     Response:
       Answer: Following this assignment, I will be returning to Ganthor to await new
         orders.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereYouFriends
     Response:
       Answer: My friends are scattered throughout the Savrone federation. Fortunately,
         travelling as I do, I am able to meet them in person just enough to maintain
         a real connection.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhereYouFamily
     Response:
       Answer: My family remains on my homeward of Savrok. We are rarely in contact
         in recent cycles.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhyShip
     Response:
       Answer: 'We felt that interacting in person would facilitate a more fruitful
         relationship than simply exchanging transmissions despite the time required
         to travel this far. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhyStation
     Response:
       Answer: The Joint Earth-Sovran Space Installation was constructed to be a common
         port of call between our two empires. It felt like the most appropriate place
         to hold these interviews.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: WhyMe
     Response:
       Answer: In order to better understand your species, we held a lottery to select
         average humans at random.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansBed
     Response:
       Answer: 'I see, wherever you rest your head is home to you. A practical definition
         indeed. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansFamily
     Response:
       Answer: I suppose the fixed point of ones family provides a kind of spiritual
         home rather than a physical one.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansFrom
     Response:
       Answer: So your home is no more than your starting place. I am inclined to agree.
         Once one begins travelling the cosmos indefinitely, the notion of a fixed
         home becomes meaningless.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansNothing
     Response:
       Answer: I see. It is regrettable that travel has turned you toward nihilism,
         but I cannot say the perspective is uncommon among those I have met in my
         travels.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansFriends
     Response:
       Answer: So wherever one finds companionship. This seems a very adaptable point
         of view. It will benefit you as you begin to travel the galaxy.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeMeansHere
     Response:
       Answer: If you mean that your home is wherever you are, I more or less agree.
         However if you are referring to this station, I regret to inform you that
         we cannot allow you to stay here.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodIsHard
     Response:
       Answer: I understand that Savrone food may be difficult for an Earthling moth
         to tackle, but I hope you will try regardless.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodIsGreat
     Response:
       Answer: "I\u2019m glad you are enjoying it!"
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodIsBoring
     Response:
       Answer: Well, our chefs purposefully chose very simple recipes. I apologize
         if this does not meet your sophisticated expectations.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodIsFun
     Response:
       Answer: "I\u2019m glad you are enjoying it!"
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodIsDangerous
     Response:
       Answer: I assure you, all of the food is safe. We have been very thorough in
         vetting the diet choices for this meeting.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWasHard
     Response:
       Answer: "I hope today\u2019s meal is proving less of a problem than your normal
         fare."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWasGreat
     Response:
       Answer: "I hope today\u2019s meal is matching that expectation. "
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWasBoring
     Response:
       Answer: "I hope today\u2019s meal provides more variety."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWasFun
     Response:
       Answer: I hope todays meal is proving to be just as interesting.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWasDangerous
     Response:
       Answer: We have vetted the food for this occasion. It should be safer than your
         prior staples.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWillBeHard
     Response:
       Answer: "I hope the memory of today\u2019s meal will provide some respite for
         you going forward."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWillBeGreat
     Response:
       Answer: "I hope today\u2019s meal has not been a disappointment."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWillBeBoring
     Response:
       Answer: I hope todays meal has not spoiled your palette.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWillBeFun
     Response:
       Answer: "I hope today\u2019s meal has not been a disappointment."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyFoodWillBeDangerous
     Response:
       Answer: "I hope the today\u2019s meal has provided some temporary respite for
         you."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeIsGreat
     Response:
       Answer: "I am glad you are satisfied with your world. Unsatisfied species can
         be\u2026 problematic."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeIsBoring
     Response:
       Answer: 'I am sorry to hear that, but I may offer a more optimistic perspective,
         the universe is filled with interesting places and phenomena for you to explore. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeIsHard
     Response:
       Answer: "I hope in time our species\u2019 collaboration can improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeIsDangerous
     Response:
       Answer: "I hope in time our species\u2019 collaboration can improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeIsFun
     Response:
       Answer: 'That is good to hear. Perhaps it might be worth it for me to spend
         some time there. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWasGreat
     Response:
       Answer: "I am sorry to hear of your world\u2019s decline. I hope you do not
         attribute this to our arrival."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWasBoring
     Response:
       Answer: In my experience, first contact changes that for most worlds.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWasHard
     Response:
       Answer: "I hope our species\u2019 collaboration has begun to improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWasDangerous
     Response:
       Answer: "I hope our species\u2019 collaboration has begun to improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWasFun
     Response:
       Answer: I hope you do not feel that the your new perspective on the universe
         has diminished your world in your mind. Every world has something unique to
         offer.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWillBeGreat
     Response:
       Answer: "I hope our species\u2019 collaboration will contribute to that vision."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWillBeBoring
     Response:
       Answer: I hope you do not feel that the your new perspective on the universe
         has diminished your world in your mind. Every world has something unique to
         offer.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWillBeHard
     Response:
       Answer: The next steps into the galactic community are not easy for any planet,
         but I hope we can help to ease you through this transition.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWillBeDangerous
     Response:
       Answer: I hope our meeting will not have any repercussions for you. That was
         not our intention.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: MyHomeWillBeFun
     Response:
       Answer: Well, I hope you have not been disappointed by or interactions.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: NONE0
     Response:
       Answer: This response should not be reachable
@@ -9622,117 +9622,117 @@ MonoBehaviour:
     Response:
       Answer: That is good to hear. Perhaps it might be worth it for me to spend some
         time there.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthIsBoring
     Response:
       Answer: 'I am sorry to hear that, but I may offer a more optimistic perspective,
         the universe is filled with interesting places and phenomena for you to explore. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthIsHard
     Response:
       Answer: "I hope in time our species\u2019 collaboration can improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthIsGreat
     Response:
       Answer: "I am glad you are satisfied with your world. Unsatisfied species can
         be\u2026 problematic."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthIsDangerous
     Response:
       Answer: "I hope in time our species\u2019 collaboration can improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWillBeFun
     Response:
       Answer: First contact does tend to make planets more exciting for their inhabitants.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWillBeBoring
     Response:
       Answer: I hope you do not feel that the your new perspective on the universe
         has diminished your world in your mind. Every world has something unique to
         offer.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWillBeHard
     Response:
       Answer: I hope the conveniences of this station have not negatively altered
         your expectations of your own world.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWillBeGreat
     Response:
       Answer: "I hope our species\u2019 collaboration will contribute to that vision."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWillBeDangerous
     Response:
       Answer: 'We have dealt with dangerous species before. I doubt your world will
         constitute threat we cannot manage. '
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWasFun
     Response:
       Answer: I assure you, earth should continue to be a enjoyable despite and perhaps
         as a direct result of our continued collaboration.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWasBoring
     Response:
       Answer: It will not remain that way. First contact tends to make planets more
         much exciting for their inhabitants.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWasHard
     Response:
       Answer: "I hope our species\u2019 collaboration has begun to improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWasGreat
     Response:
       Answer: "I am sorry to hear of your world\u2019s decline. I hope you do not
         attribute this to our arrival."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: EarthWasDangerous
     Response:
       Answer: "I hope our species\u2019 collaboration has begun to improve that."
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IFromEarth
     Response:
       Answer: That is unsurprising, we only selected current Earthlings for this program.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IFromCanada
     Response:
       Answer: I have heard of this constituency. That leaf branding is inescapably
         iconic.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IFromVancouver
     Response:
       Answer: If this is the city I have heard of, it is a wonder you are able to
         finance such living arrangements.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkToAnyone
     Response:
       Answer: Well, I am someone and I am happy to converse with you. I hope I have
         eased your loneliness.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkToAlien
     Response:
       Answer: It is a rare opportunity on a world such as yours. I am glad you were
         able to experience this.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkToPeople
     Response:
       Answer: Well, I believe you can consider me a person and I am quite happy to
         converse with you. I hope I have eased your loneliness.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkAboutEarth
     Response:
       Answer: Very well. Please tell me about your world.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkAboutMe
     Response:
       Answer: Very well, perhaps you could tell me more about where you come from.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkAboutYou
     Response:
       Answer: Very well, please ask me any question you like.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   - Key: IWantTalkAboutHome
     Response:
       Answer: Yes, I would like to know more about your world. Please proceed.
-      ChoosePrompt: 0
+      ChoosePrompt: 1
   InitialButtons:
   - {fileID: 114462728457420672}
   - {fileID: 114170605009749766}
