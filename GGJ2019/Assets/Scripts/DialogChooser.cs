@@ -16,14 +16,23 @@ public class DialogChooser : MonoBehaviour {
         public string Answer;
         public bool ChoosePrompt;
     }
-
+    public Animator animator;
+    public AudioClip Music;
+    public AudioClip TalkingSound;
+    public AudioSource Speaker;
     public Text Output;
     public List<string> Prompts;
+    public List<int> ActivePrompts;
     public string defaultPrompt;
     [SerializeField] public List<KeyValuePair> ResponseList;
     Dictionary<string, Response> Responses;
     public Button[] InitialButtons;
     public Button[] AllButtons;
+
+    Coroutine GameEnd;
+    Coroutine Animating;
+
+
 
     List<string> ActiveKey;
 
@@ -35,8 +44,19 @@ public class DialogChooser : MonoBehaviour {
             Responses.Add(kvp.Key, kvp.Response);
         }
         AllButtons = FindObjectsOfType<Button>();
+
+        ActivePrompts = new List<int>();
+        PopulatePrompts();
+
         ResetButtons();
 	}
+
+    void PopulatePrompts(){
+        for (int i = 0; i < Prompts.Count; i++)
+        {
+            ActivePrompts.Add(i);
+        }
+    }
 
 	public void AddToString(string seg)
     {
@@ -64,25 +84,40 @@ public class DialogChooser : MonoBehaviour {
             string dialog = response.Answer;
             if (response.ChoosePrompt)
             {
-                dialog += " " + GetPrompt();
+                dialog += "\n " + GetPrompt();
             }
 
             Output.text = dialog;
         }
+        if (key == "WhoMadeGame")
+        {
+
+        }
+        else
+        {
+            ResetButtons();
+        }
+
         ActiveKey.Clear();
-        ResetButtons();
+        
     }
 
     private string GetPrompt(){
         if (Prompts.Count>0)
         {
-            int index = Random.Range(0, Prompts.Count);
-            string res = Prompts[index];
-            Prompts.RemoveAt(index);
+            int index = Random.Range(0, ActivePrompts.Count);
+            string res = Prompts[ActivePrompts[index]];
+            ActivePrompts.RemoveAt(index);
             return res;
         }else{
             return defaultPrompt;
         }
+    }
+
+    void ResetGame(){
+        ActivePrompts.Clear();
+        PopulatePrompts();
+        ResetButtons();
     }
 
     void ResetButtons(){
@@ -98,5 +133,17 @@ public class DialogChooser : MonoBehaviour {
         {
             b.gameObject.SetActive(false);
         }
+    }
+
+    IEnumerator Animate(float length){
+        //Start animation
+        yield return new WaitForSeconds(length * 0.01f);
+        //End Animation
+    }
+
+    IEnumerator ClearVisuals()
+    {
+        yield return new WaitForSeconds(60);
+        ResetGame();
     }
 }

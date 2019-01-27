@@ -9249,6 +9249,7 @@ MonoBehaviour:
   - Do you have any thoughts about the future?
   - What was food like on Earth?
   - 'What was your world like before we arrived? '
+  ActivePrompts: 
   defaultPrompt: Would you like to know who made this game?
   ResponseList:
   - Key: WhoYouAre
@@ -9316,7 +9317,7 @@ MonoBehaviour:
         today. I have come to think of my home planet as more of a starting point
         than a current home. I spend so much time between planets that I consider
         myself homeless. How about your home?"
-      ChoosePrompt: 1
+      ChoosePrompt: 0
   - Key: WhatYouHomeLike
     Response:
       Answer: Savrok has been a sparsely populated world since most of our people
@@ -9446,37 +9447,38 @@ MonoBehaviour:
       ChoosePrompt: 1
   - Key: MyHomeMeansBed
     Response:
-      Answer: 'I see, wherever you rest your head is home to you. A practical definition
-        indeed. '
-      ChoosePrompt: 1
+      Answer: I see, wherever you rest your head is home to you. A practical definition
+        indeed.  How do you think your home will change?
+      ChoosePrompt: 0
   - Key: MyHomeMeansFamily
     Response:
       Answer: I suppose the fixed point of ones family provides a kind of spiritual
-        home rather than a physical one.
-      ChoosePrompt: 1
+        home rather than a physical one. How do you think your home will change?
+      ChoosePrompt: 0
   - Key: MyHomeMeansFrom
     Response:
       Answer: So your home is no more than your starting place. I am inclined to agree.
         Once one begins travelling the cosmos indefinitely, the notion of a fixed
-        home becomes meaningless.
-      ChoosePrompt: 1
+        home becomes meaningless. How do you think your home will change?
+      ChoosePrompt: 0
   - Key: MyHomeMeansNothing
     Response:
       Answer: I see. It is regrettable that travel has turned you toward nihilism,
         but I cannot say the perspective is uncommon among those I have met in my
-        travels.
-      ChoosePrompt: 1
+        travels. How do you think your home will change?
+      ChoosePrompt: 0
   - Key: MyHomeMeansFriends
     Response:
       Answer: So wherever one finds companionship. This seems a very adaptable point
-        of view. It will benefit you as you begin to travel the galaxy.
-      ChoosePrompt: 1
+        of view. It will benefit you as you begin to travel the galaxy. How do you
+        think your home will change?
+      ChoosePrompt: 0
   - Key: MyHomeMeansHere
     Response:
       Answer: If you mean that your home is wherever you are, I more or less agree.
         However if you are referring to this station, I regret to inform you that
-        we cannot allow you to stay here.
-      ChoosePrompt: 1
+        we cannot allow you to stay here. How do you think your home will change?
+      ChoosePrompt: 0
   - Key: MyFoodIsHard
     Response:
       Answer: I understand that Savrone food may be difficult for an Earthling moth
@@ -9737,6 +9739,10 @@ MonoBehaviour:
   - {fileID: 114462728457420672}
   - {fileID: 114170605009749766}
   AllButtons: []
+  animator: {fileID: 0}
+  Music: {fileID: 0}
+  TalkingSound: {fileID: 0}
+  Speaker: {fileID: 0}
 --- !u!114 &114449351103790960
 MonoBehaviour:
   m_ObjectHideFlags: 1
