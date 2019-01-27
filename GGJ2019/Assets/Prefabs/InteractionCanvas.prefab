@@ -3620,7 +3620,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   value: Where
   EndSentence: 1
-  NextWords: []
+  NextWords:
+  - {fileID: 114363846180063180}
+  - {fileID: 114161631647031146}
+  - {fileID: 114482160890934342}
 --- !u!114 &114019647745975084
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -3632,10 +3635,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89036419d8d24fc408eab00a643351cd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  value: 
+  value: My
   EndSentence: 0
   NextWords:
-  - {fileID: 0}
+  - {fileID: 114391672619815912}
+  - {fileID: 114047435817345422}
 --- !u!114 &114024379479191230
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -4354,10 +4358,9 @@ MonoBehaviour:
   value: Why
   EndSentence: 0
   NextWords:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 114403343081348338}
+  - {fileID: 114808060118300208}
+  - {fileID: 114354170505191584}
 --- !u!114 &114066797660077444
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -9235,6 +9238,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c57acb05552d641bb8cfadb3d17da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  Music: {fileID: 0}
+  TalkingSound: {fileID: 0}
+  Speaker: {fileID: 0}
   Output: {fileID: 114369305624083698}
   Prompts:
   - What does home mean to you?
@@ -9739,10 +9746,6 @@ MonoBehaviour:
   - {fileID: 114462728457420672}
   - {fileID: 114170605009749766}
   AllButtons: []
-  animator: {fileID: 0}
-  Music: {fileID: 0}
-  TalkingSound: {fileID: 0}
-  Speaker: {fileID: 0}
 --- !u!114 &114449351103790960
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -11861,10 +11864,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   value: Leave
   EndSentence: 1
-  NextWords:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  NextWords: []
 --- !u!114 &114643436094983734
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -14332,10 +14332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   value: Arrive
   EndSentence: 1
-  NextWords:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  NextWords: []
 --- !u!114 &114844411982369732
 MonoBehaviour:
   m_ObjectHideFlags: 1
