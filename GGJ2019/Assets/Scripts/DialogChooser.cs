@@ -66,9 +66,10 @@ public class DialogChooser : MonoBehaviour {
             {
                 dialog += " " + GetPrompt();
             }
-            ActiveKey.Clear();
+
             Output.text = dialog;
         }
+        ActiveKey.Clear();
         ResetButtons();
     }
 
