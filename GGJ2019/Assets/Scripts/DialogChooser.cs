@@ -137,7 +137,9 @@ public class DialogChooser : MonoBehaviour {
 
     IEnumerator Animate(float length){
         //Start animation
+        animator.SetBool("Talking", true);
         yield return new WaitForSeconds(length * 0.01f);
+        animator.SetBool("Talking", false);
         //End Animation
     }
 
