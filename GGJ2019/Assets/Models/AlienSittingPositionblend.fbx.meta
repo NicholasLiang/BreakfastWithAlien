@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: a349d968e92e93647841bddad000efff
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alien creature
+    100002: Alien Rig
+    100004: //RootNode
+    100006: Camera
+    100008: decorative_chair_LOD1
+    100010: Finger A L
+    100012: Finger A L.001
+    100014: Finger A L.001_end
+    100016: Finger A R
+    100018: Finger A R.001
+    100020: Finger A R.001_end
+    100022: Finger B L
+    100024: Finger B L.001
+    100026: Finger B L.001_end
+    100028: Finger B R
+    100030: Finger B R.001
+    100032: Finger B R.001_end
+    100034: Finger C L
+    100036: Finger C L.001
+    100038: Finger C L.001_end
+    100040: Finger C R
+    100042: Finger C R.001
+    100044: Finger C R.001_end
+    100046: Foot control L
+    100048: Foot control L_end
+    100050: Foot control R
+    100052: Foot control R_end
+    100054: Foot L
+    100056: Foot R
+    100058: Hand L
+    100060: Hand R
+    100062: Head
+    100064: Hips
+    100066: Lamp
+    100068: Leg A L
+    100070: Leg A R
+    100072: Leg B L
+    100074: Leg B R
+    100076: Leg C L
+    100078: Leg C R
+    100080: Lower Arm L
+    100082: Lower Arm R
+    100084: Master
+    100086: Master_end
+    100088: Mouth
+    100090: Plane
+    100092: Shoulder L
+    100094: Shoulder R
+    100096: Sphere
+    100098: Spine
+    100100: Spine.001
+    100102: Spine.002
+    100104: Spine.003
+    100106: Spine.004
+    100108: table_2
+    100110: Tail
+    100112: Tail.001
+    100114: Tail.001_end
+    100116: Thumb b L
+    100118: Thumb b L_end
+    100120: Thumb b R
+    100122: Thumb b R_end
+    100124: Thumb L
+    100126: Thumb R
+    100128: Toe A L
+    100130: Toe A L.001
+    100132: Toe A L.001_end
+    100134: Toe A R
+    100136: Toe A R.001
+    100138: Toe A R.001_end
+    100140: Toe B L
+    100142: Toe B L.001
+    100144: Toe B L.001_end
+    100146: Toe B R
+    100148: Toe B R.001
+    100150: Toe B R.001_end
+    100152: Toe C L
+    100154: Toe C L_end
+    100156: Toe C R
+    100158: Toe C R_end
+    100160: Toe D L
+    100162: Toe D L_end
+    100164: Toe D R
+    100166: Toe D R_end
+    100168: Tongue
+    100170: Tongue.001
+    100172: Tongue.001_end
+    100174: Tongue.002
+    100176: Upper arm L
+    100178: Upper arm R
+    400000: Alien creature
+    400002: Alien Rig
+    400004: //RootNode
+    400006: Camera
+    400008: decorative_chair_LOD1
+    400010: Finger A L
+    400012: Finger A L.001
+    400014: Finger A L.001_end
+    400016: Finger A R
+    400018: Finger A R.001
+    400020: Finger A R.001_end
+    400022: Finger B L
+    400024: Finger B L.001
+    400026: Finger B L.001_end
+    400028: Finger B R
+    400030: Finger B R.001
+    400032: Finger B R.001_end
+    400034: Finger C L
+    400036: Finger C L.001
+    400038: Finger C L.001_end
+    400040: Finger C R
+    400042: Finger C R.001
+    400044: Finger C R.001_end
+    400046: Foot control L
+    400048: Foot control L_end
+    400050: Foot control R
+    400052: Foot control R_end
+    400054: Foot L
+    400056: Foot R
+    400058: Hand L
+    400060: Hand R
+    400062: Head
+    400064: Hips
+    400066: Lamp
+    400068: Leg A L
+    400070: Leg A R
+    400072: Leg B L
+    400074: Leg B R
+    400076: Leg C L
+    400078: Leg C R
+    400080: Lower Arm L
+    400082: Lower Arm R
+    400084: Master
+    400086: Master_end
+    400088: Mouth
+    400090: Plane
+    400092: Shoulder L
+    400094: Shoulder R
+    400096: Sphere
+    400098: Spine
+    400100: Spine.001
+    400102: Spine.002
+    400104: Spine.003
+    400106: Spine.004
+    400108: table_2
+    400110: Tail
+    400112: Tail.001
+    400114: Tail.001_end
+    400116: Thumb b L
+    400118: Thumb b L_end
+    400120: Thumb b R
+    400122: Thumb b R_end
+    400124: Thumb L
+    400126: Thumb R
+    400128: Toe A L
+    400130: Toe A L.001
+    400132: Toe A L.001_end
+    400134: Toe A R
+    400136: Toe A R.001
+    400138: Toe A R.001_end
+    400140: Toe B L
+    400142: Toe B L.001
+    400144: Toe B L.001_end
+    400146: Toe B R
+    400148: Toe B R.001
+    400150: Toe B R.001_end
+    400152: Toe C L
+    400154: Toe C L_end
+    400156: Toe C R
+    400158: Toe C R_end
+    400160: Toe D L
+    400162: Toe D L_end
+    400164: Toe D R
+    400166: Toe D R_end
+    400168: Tongue
+    400170: Tongue.001
+    400172: Tongue.001_end
+    400174: Tongue.002
+    400176: Upper arm L
+    400178: Upper arm R
+    2000000: Camera
+    2100000: base color.001
+    2100002: blue emission
+    2100004: Material
+    2100006: No Name
+    2100008: Eyes
+    2100010: Diffuse
+    2100012: TEETH_CLAWS
+    2300000: decorative_chair_LOD1
+    2300002: Plane
+    2300004: Sphere
+    2300006: table_2
+    3300000: decorative_chair_LOD1
+    3300002: Plane
+    3300004: Sphere
+    3300006: table_2
+    4300000: table_2
+    4300002: decorative_chair_LOD1
+    4300004: Plane
+    4300006: Sphere
+    4300008: Alien creature
+    7400000: table_2|CameraAction
+    7400002: table_2|decorative_chair_LOD1Action
+    7400004: table_2|table_2Action
+    7400006: decorative_chair_LOD1|CameraAction
+    7400008: decorative_chair_LOD1|decorative_chair_LOD1Action
+    7400010: decorative_chair_LOD1|table_2Action
+    7400012: Alien Rig|Alien RigAction
+    7400014: Alien Rig|CameraAction
+    7400016: Alien Rig|decorative_chair_LOD1Action
+    7400018: Alien Rig|table_2Action
+    7400020: Camera|CameraAction
+    7400022: Camera|decorative_chair_LOD1Action
+    7400024: Camera|table_2Action
+    9500000: //RootNode
+    10800000: Lamp
+    13700000: Alien creature
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

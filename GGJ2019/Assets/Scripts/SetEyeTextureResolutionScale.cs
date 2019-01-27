@@ -6,7 +6,7 @@ public class Awake : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        UnityEngine.XR.XRSettings.eyeTextureResolutionScale = 1.5f;
+        UnityEngine.XR.XRSettings.eyeTextureResolutionScale = 1.2f;
 
     }
 	
