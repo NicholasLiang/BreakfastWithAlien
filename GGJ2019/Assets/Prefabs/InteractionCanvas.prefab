@@ -1201,6 +1201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Home
   EndSentence: 0
   NextWords:
@@ -1513,6 +1514,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: You
   EndSentence: 0
   NextWords:
@@ -1530,6 +1532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Leader
   EndSentence: 1
   NextWords: []
@@ -1817,6 +1820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Species
   EndSentence: 1
   NextWords: []
@@ -1918,6 +1922,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Made
   EndSentence: 0
   NextWords:
@@ -2049,6 +2054,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: What
   EndSentence: 0
   NextWords:
@@ -2097,6 +2103,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: You
   EndSentence: 0
   NextWords:
@@ -2198,6 +2205,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: You
   EndSentence: 1
   NextWords: []
@@ -2436,6 +2444,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Ship
   EndSentence: 1
   NextWords: []
@@ -2502,6 +2511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Name
   EndSentence: 1
   NextWords: []
@@ -2750,6 +2760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Mean
   EndSentence: 1
   NextWords: []
@@ -2791,6 +2802,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Where
   EndSentence: 1
   NextWords: []
@@ -2933,7 +2945,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1347725579961440}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42033621eff0144e99adb3de20ff0b2b, type: 3}
+  m_Script: {fileID: 11500000, guid: d9c57acb05552d641bb8cfadb3d17da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Output: {fileID: 114369305624083698}
@@ -3086,6 +3098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: 
   EndSentence: 0
   NextWords:
@@ -3130,6 +3143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Like
   EndSentence: 1
   NextWords:
@@ -3265,6 +3279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Station
   EndSentence: 1
   NextWords: []
@@ -3810,6 +3825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: You
   EndSentence: 0
   NextWords:
@@ -4017,6 +4033,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Travel
   EndSentence: 1
   NextWords:
@@ -4033,6 +4050,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Is
   EndSentence: 1
   NextWords: []
@@ -4404,6 +4422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Look
   EndSentence: 1
   NextWords: []
@@ -4530,6 +4549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Why
   EndSentence: 0
   NextWords: []
@@ -4544,6 +4564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: You
   EndSentence: 1
   NextWords: []
@@ -4610,6 +4631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Job
   EndSentence: 1
   NextWords: []
@@ -4651,6 +4673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Friends
   EndSentence: 1
   NextWords: []
@@ -4665,6 +4688,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Who
   EndSentence: 0
   NextWords:
@@ -4714,6 +4738,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: When
   EndSentence: 0
   NextWords: []
@@ -4900,6 +4925,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Breakfast
   EndSentence: 1
   NextWords: []
@@ -5067,6 +5093,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: I
   EndSentence: 0
   NextWords:
@@ -5083,6 +5110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Game
   EndSentence: 1
   NextWords: []
@@ -5149,6 +5177,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Doing
   EndSentence: 1
   NextWords: []
@@ -5163,6 +5192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: Are
   EndSentence: 1
   NextWords: []
@@ -5237,6 +5267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7bf5b81202b244b5b429e87f35f060b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
   value: How
   EndSentence: 0
   NextWords:
