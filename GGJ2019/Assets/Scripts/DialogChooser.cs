@@ -88,10 +88,11 @@ public class DialogChooser : MonoBehaviour {
             }
 
             Output.text = dialog;
+            StartCoroutine(Animate(dialog.Length));
         }
         if (key == "WhoMadeGame")
         {
-
+            StartCoroutine(ClearVisuals());
         }
         else
         {
