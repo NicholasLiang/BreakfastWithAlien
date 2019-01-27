@@ -9237,9 +9237,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Output: {fileID: 114369305624083698}
   Prompts:
-  - PromptA
-  - PromptB
-  defaultPrompt: Is there anything else you want to know?
+  - What does home mean to you?
+  - Where do you come from?
+  - Is there anything else you want to know?
+  - Tell me about your home.
+  - How are you finding the meal?
+  - Tell me about yourself.
+  - Please, ask me anything you like.
+  - You must have more questions. Please ask away.
+  - How would you describe your world?
+  - Do you have any thoughts about the future?
+  - What was food like on Earth?
+  - 'What was your world like before we arrived? '
+  defaultPrompt: Would you like to know who made this game?
   ResponseList:
   - Key: WhoYouAre
     Response:
