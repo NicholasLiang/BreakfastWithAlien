@@ -9238,6 +9238,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c57acb05552d641bb8cfadb3d17da9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  InitialText: Welcome to breakfast Earthling. Please use the translater to speak
+    with me.
   animator: {fileID: 0}
   Music: {fileID: 0}
   TalkingSound: {fileID: 0}
@@ -9298,7 +9300,7 @@ MonoBehaviour:
       Answer: This game was created in Vancouver at Global Game Gam 2019 by Nick Liang
         and Michael Pattie. Nick animated my body and assembled the station you see
         around us while Michael programmed your translator and wrote the words coming
-        out of my mouth. Thank you for playing!
+        out of my mouth. Bryan Chan created the music. Thank you for playing!
       ChoosePrompt: 0
   - Key: WhatYouName
     Response:
@@ -15404,7 +15406,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: How
+  m_Text: Look
 --- !u!114 &114921506367128144
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -18594,8 +18596,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 112}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -16.2, y: 112}
+  m_SizeDelta: {x: 621.6, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224241727686534242
 RectTransform:
