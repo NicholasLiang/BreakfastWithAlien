@@ -7912,7 +7912,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Means
+  m_Text: From
 --- !u!114 &114349259059778378
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -15201,7 +15201,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Means
+  m_Text: Here
 --- !u!114 &114902220682130532
 MonoBehaviour:
   m_ObjectHideFlags: 1
