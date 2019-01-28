@@ -16,6 +16,7 @@ public class DialogChooser : MonoBehaviour {
         public string Answer;
         public bool ChoosePrompt;
     }
+    public string InitialText = "Welcome to breakfast Earthling. Please use the translater to speak with me.";
     public Animator animator;
     public AudioClip Music;
     public AudioClip TalkingSound;
@@ -49,6 +50,8 @@ public class DialogChooser : MonoBehaviour {
         PopulatePrompts();
 
         ResetButtons();
+
+        Output.text = InitialText;
 	}
 
     void PopulatePrompts(){
@@ -104,7 +107,7 @@ public class DialogChooser : MonoBehaviour {
     }
 
     private string GetPrompt(){
-        if (Prompts.Count>0)
+        if (ActivePrompts.Count>0)
         {
             int index = Random.Range(0, ActivePrompts.Count);
             string res = Prompts[ActivePrompts[index]];
@@ -116,9 +119,11 @@ public class DialogChooser : MonoBehaviour {
     }
 
     void ResetGame(){
+       
         ActivePrompts.Clear();
         PopulatePrompts();
         ResetButtons();
+        Output.text = InitialText;
     }
 
     void ResetButtons(){
